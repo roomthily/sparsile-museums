@@ -1,0 +1,3 @@
+requests==2.9.1
+colormath==2.1.1
+vadersentiment==0.5
